@@ -1,5 +1,9 @@
 # Pose Detection in the Browser: PoseNet Model
 
+## Overview
+
+This is the code for [this](https://youtu.be/9KqNk5keyCc) video on Youtube by Siraj Raval. 
+
 This package contains a standalone model called PoseNet, as well as some demos, for running real-time pose estimation in the browser using TensorFlow.js.
 
 [Try the demo here!](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html)
@@ -506,3 +510,7 @@ This produces the output:
 
 Details for how to run the demos are included in the `demos/` folder.
 
+
+## Credits
+
+Credits for this code go to Google
